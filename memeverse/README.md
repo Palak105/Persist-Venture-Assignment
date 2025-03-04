@@ -10,7 +10,7 @@ This project was created with [Create React App]
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/Palak105/Persist-Venture-Assignment.git
    ```
 
 ## Available Scripts
